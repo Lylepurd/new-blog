@@ -144,5 +144,3 @@ The `useEffect()` hook is a vital part of building effective React applications.
 Feel free to share your experiences and tips on using `useEffect()` in the comments below. Happy coding!
 
 ---
-
-For more tips and tutorials on React and other web development topics, follow us at [Lyle/Dev](https://lyle.dev) and stay tuned for our latest updates!
