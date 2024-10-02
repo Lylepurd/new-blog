@@ -158,7 +158,5 @@ function Login() {
 
 React Router is an essential library for building dynamic and responsive applications with React. By understanding its core concepts and how to implement routing, you can create seamless user experiences in your applications. Whether you're building a simple blog or a complex dashboard, React Router provides the tools you need to manage navigation effectively.
 
-Feel free to share your experiences with React Router in the comments below, and happy coding!
-
 ---
 
