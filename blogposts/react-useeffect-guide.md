@@ -141,6 +141,5 @@ If you have multiple effects in a component, consider grouping them by purpose. 
 
 The `useEffect()` hook is a vital part of building effective React applications. By understanding its syntax, use cases, and best practices, you can leverage its power to manage side effects efficiently. Whether you're fetching data, handling events, or setting up subscriptions, `useEffect()` provides a flexible and powerful way to keep your components in sync with the outside world.
 
-Feel free to share your experiences and tips on using `useEffect()` in the comments below. Happy coding!
 
 ---
