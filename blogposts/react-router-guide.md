@@ -162,4 +162,3 @@ Feel free to share your experiences with React Router in the comments below, and
 
 ---
 
-For more tips and tutorials on React and other web development topics, follow us at [Lyle/Dev](https://lyle.dev) and stay tuned for our latest updates!
